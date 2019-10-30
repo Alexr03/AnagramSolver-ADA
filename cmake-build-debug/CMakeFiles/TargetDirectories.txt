@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Student/CLionProjects/AnagramSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Student/CLionProjects/AnagramSolver/cmake-build-debug/CMakeFiles/AnagramSolver.dir
+/cygdrive/c/Users/Student/CLionProjects/AnagramSolver/cmake-build-debug/CMakeFiles/edit_cache.dir

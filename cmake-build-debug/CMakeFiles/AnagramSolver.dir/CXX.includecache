@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Student/CLionProjects/AnagramSolver/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+fstream
+-
+string.h
+-
+
